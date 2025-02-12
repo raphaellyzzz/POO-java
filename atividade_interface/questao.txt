@@ -1,0 +1,3 @@
+1. Crie as Interfaces: Rádio (estação), GPS (Coordenadas) e Calculadora (somar e dividir - float a,b)
+2. Crie a Classe: Smartphone que implementa as interfaces
+3. Crie o Main que instancia o objeto Smartphone e chame os métodos

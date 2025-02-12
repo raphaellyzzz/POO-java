@@ -1,0 +1,4 @@
+Classe abstrata - Funcionário
+Classes concretas - Secretario, Engenheiro, Diretor, Gerente, Cliente
+Interface - Autenticavel
+Main - Criação dos objetos e chamada dos métodos
