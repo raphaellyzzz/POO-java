@@ -1,0 +1,28 @@
+-->>> polimorfismo utilizando overload
+
+1.Implemente as classes Figura, Quadrado e Círculo
+OBS: Get/Set
+
+2.Classe Quadrado
+a) Atributos (Quadrado: cor, Lado(int) e 3D (boolean))
+b)Classe Quadrado-->Crie um construtor Default, um construtor com Cor e lado; e um construtor com cor, lado e 3D. c) O método área deve imprimir o resultado do cálculo- sem retorno.
+
+d) Criar o método área passando a informação do lado do tipo Double e com retorno do tipo Double
+
+3.Classe Círculo
+a) Atributos (Círculo: cor,  Raio(double) e Marca(String))
+b) Classe Círculo-->Crie um construtor Default, um construtor com Cor e Raio; e um construtor com cor, Raio e Marca. 
+c) O método área deve imprimir o resultado do cálculo
+
+- sem retorno.
+d) Criar o método área passando a informação do raio do tipo Double e com retorno do tipo Double
+
+4.Implemente a classe Main criando: 
+a) um objeto Quadrado (cor=azul, lado=4)
+b) um objeto Quadrado (cor=verde, lado=10, 3D=True)
+c) um objeto círculo (cor=vermelho, raio=3)
+d) um objeto círculo (cor=amarelo, raio=5, marca=google)
+
+5. Realizar a chamada dos 2 métodos de cada classe (Um usando as informações do objeto e outro informando os dados).
+
+6. Imprima os valores dos atributos dos 4 objetos

@@ -1,0 +1,21 @@
+Crie as classes da figura
+Atributos:
+Nome (String)
+CPF (String)
+Salario (double)
+
+método abstrato Double getBonificação
+
+Presidente
+Método (Salario +50%)
+
+Gerente 
+Método (Salario +30%)
+
+Diretor
+Método -> Recebe do gerente
+
+----Classe Main---
+->Criar um objeto Presidente, Gerente e Diretor (valor informado pelo usuário)
+-> chamar o método GetBonificação de cada instância
+-> Imprimir o resultado de cada chamada (valor + bonificação)
