@@ -1,0 +1,6 @@
+-->> sem overload
+
+1.Implemente as classes Figura, Quadrado e Círculo
+2.Implemente a classe Main criando um objeto Quadrado e Círculo 
+3. O método área (Classe quadrado) deve imprimir o resultado do cálculo
+4. O método área (Classe Círculo) deve imprimir o resultado do cálculo

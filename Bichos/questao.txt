@@ -1,0 +1,6 @@
+EXERCICIO HERANÇA
+
+Implemente as classes informadas no Diagrama de classes.
+
+-implemente uma classe Main que instancie um cavalo e um leão (preenchendo as informações necessárias)
+-Realize as chamadas dos métodos Fugir() e Cacar()
